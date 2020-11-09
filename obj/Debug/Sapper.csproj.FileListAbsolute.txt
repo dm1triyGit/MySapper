@@ -1,0 +1,30 @@
+C:\Users\D\source\repos\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\D\source\repos\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\D\source\repos\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\D\source\repos\Sapper\Sapper\obj\Debug\Sapper.csprojAssemblyReference.cache
+C:\Users\D\source\repos\Sapper\Sapper\obj\Debug\Sapper.MainForm.resources
+C:\Users\D\source\repos\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\D\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\D\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\D\source\repos\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\D\source\repos\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\obj\Debug\Sapper.csprojAssemblyReference.cache
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\obj\Debug\Sapper.MainForm.resources
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\D\Desktop\Программирование\HomeWork\Сапер\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\obj\Debug\Sapper.csprojAssemblyReference.cache
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\obj\Debug\Sapper.MainForm.resources
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\D\Desktop\Программирование\Проекты для портфолио\Sapper\Sapper\obj\Debug\Sapper.pdb
